@@ -25,6 +25,7 @@ In the dashboard, we can see the customers profile, such as their age, salary di
 Looking into the campaigns performance, people who bought are similiar to the facts above. But, most of those who did not buy have one teenager at home. Therefore, It is importante to direct campaings according to these informations.
 
 **Business Impact**
+
 This dashboard enables faster and more data-driven decision-making, allowing marketing managers to identify trends, assess campaign performance, and adjust strategies based on accurate insights. Additionally, automating analyses reduces the time spent on manual spreadsheet manipulation, increasing team productivity and efficiency.
 
 This project highlights the importance of Business Intelligence (BI) in marketing, helping companies become more data-driven and maximize their results. 🚀
